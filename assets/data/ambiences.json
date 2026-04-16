@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "title": "Forest Focus",
+    "tag": "Focus",
+    "duration": 180,
+    "image": "assets/images/forest.jpg",
+    "audio": "assets/audio/forest.mp3",
+    "description": "Immerse yourself in a calm forest environment.",
+    "sensory": ["Breeze", "Mist", "Soft Light"]
+  },
+  {
+    "id": "2",
+    "title": "Rain Calm",
+    "tag": "Calm",
+    "duration": 240,
+    "image": "assets/images/rain.jpg",
+    "audio": "assets/audio/rain.mp3",
+    "description": "Gentle rain to calm your mind.",
+    "sensory": ["Soft Rain", "Cool Air"]
+  }
+]
