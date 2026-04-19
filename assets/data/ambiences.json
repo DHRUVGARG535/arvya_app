@@ -3,8 +3,8 @@
     "id": "1",
     "title": "Forest Focus",
     "tag": "Focus",
-    "duration": 180,
-    "image": "assets/images/forest.jpg",
+    "duration": 120,
+    "image": "assets/images/forest.jpeg",
     "audio": "assets/audio/forest.mp3",
     "description": "Immerse yourself in a calm forest environment.",
     "sensory": ["Breeze", "Mist", "Soft Light"]
@@ -13,10 +13,50 @@
     "id": "2",
     "title": "Rain Calm",
     "tag": "Calm",
-    "duration": 240,
-    "image": "assets/images/rain.jpg",
-    "audio": "assets/audio/rain.mp3",
+    "duration": 180,
+    "image": "assets/images/rain.jpeg",
+    "audio": "assets/audio/forest.mp3",
     "description": "Gentle rain to calm your mind.",
     "sensory": ["Soft Rain", "Cool Air"]
+  },
+  {
+    "id": "3",
+    "title": "Ocean Drift",
+    "tag": "Calm",
+    "duration": 210,
+    "image": "assets/images/ocean.jpeg",
+    "audio": "assets/audio/forest.mp3",
+    "description": "Relax with rhythmic ocean waves.",
+    "sensory": ["Waves", "Breeze", "Salt Air"]
+  },
+  {
+    "id": "4",
+    "title": "Deep Sleep Night",
+    "tag": "Sleep",
+    "duration": 60,
+    "image": "assets/images/night.jpeg",
+    "audio": "assets/audio/forest.mp3",
+    "description": "Soft ambient tones for deep sleep.",
+    "sensory": ["Darkness", "Stillness", "Low Hum"]
+  },
+  {
+    "id": "5",
+    "title": "Morning Reset",
+    "tag": "Reset",
+    "duration": 150,
+    "image": "assets/images/morning.jpg",
+    "audio": "assets/audio/forest.mp3",
+    "description": "Fresh morning sounds to reset your mind.",
+    "sensory": ["Birds", "Sunlight", "Fresh Air"]
+  },
+  {
+    "id": "6",
+    "title": "Focus Flow",
+    "tag": "Focus",
+    "duration": 200,
+    "image": "assets/images/focus.jpeg",
+    "audio": "assets/audio/forest.mp3",
+    "description": "Minimal ambient tones for deep focus.",
+    "sensory": ["Binaural", "Soft Pulse", "Warm Light"]
   }
 ]
